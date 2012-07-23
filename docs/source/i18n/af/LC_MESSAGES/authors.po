@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2012, BNPB/AIFDR/GFDRR
+# This file is distributed under the same license as the InaSAFE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: InaSAFE 0.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-23 09:53\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/authors.rst:4
+# ebf1489277104bf29a298396889727ca
+msgid "Authors, Contributors and Funders"
+msgstr ""
+
+#: ../../source/authors.rst:6
+# 575606d2191545129d1bfccec7cad944
+msgid "Authors ordered by date of first contribution:"
+msgstr ""
+
+#: ../../source/authors.rst:8
+# e4d3ae559ba6430db878cfde620e7962
+msgid "Ole Nielsen <ole.nielsen@aifdr.org>"
+msgstr ""
+
+#: ../../source/authors.rst:9
+# 9fb07b3a227a4e9cb32d6c6218f77b74
+msgid "Tim Sutton <tim@linfiniti.com>"
+msgstr ""
+
+#: ../../source/authors.rst:11
+# d124795258ed4d75aa138945b8ce0b09
+msgid "Other contributors who have provided input, testing, translations etc."
+msgstr ""
+
+#: ../../source/authors.rst:13
+# d6d556a35e104149831d72cadc7bbd37
+msgid "Trevor Dhu <Trevor.Dhu@ausaid.gov.au>"
+msgstr ""
+
+#: ../../source/authors.rst:14
+# d013763c0df24b699b16b0fc4d0c1fda
+msgid "Krisy Van Putten <Kristy.VanPutten@ausaid.gov.au>"
+msgstr ""
+
+#: ../../source/authors.rst:15
+# 706da64a4bfc41afb5bf5bcb4698c0ff
+msgid "I Made Anombawa <anom1403@gmail.com>"
+msgstr ""
+
+#: ../../source/authors.rst:17
+# a93f4b6f848644a68ad99ef0ccd4b264
+msgid "The development of InaSAFE has been supported by the Indonesian Disaster Management Agency (BNPB) and AusAID, through the Australia-Indonesia Facility for Disaster Reduction, as well as the World Bank and the Global Facility for Disaster Reduction and Recovery."
+msgstr ""
+
+#: ../../source/authors.rst:22
+# 13f19a02f23743a4b1984aacd481f284
+msgid "InaSAFE is built as a plugin for the open source plugin for `Quantum GIS <http://qgis.org>`."
+msgstr ""
+

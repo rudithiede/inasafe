@@ -181,7 +181,7 @@ msgstr ""
 
 #: impact_functions/flood/flood_building_impact.py:20
 msgid "Temporarily Closed"
-msgstr "Tydelik gesluit"
+msgstr "Tydelik Gesluit"
 
 #: impact_functions/flood/flood_building_impact.py:78
 #: impact_functions/flood/BNPB_flood_building_impact.py:71
